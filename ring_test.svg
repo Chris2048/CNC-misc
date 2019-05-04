@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 1220 609.99998"
+   width="1220mm"
+   height="610mm"
+   id="svg3004"
+   version="1.1">
+  <metadata
+     id="metadata3829">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <desc
+     id="desc3006">/home/chris/Downloads/FII9RI0IDZSH91H.dxf - scale = 1.105263</desc>
+  <defs
+     id="defs3008">
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path3011"
+         style="stroke:#000000;stroke-width:0.53333336"
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch"
+       height="8">
+      <path
+         id="path3014"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path3016"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path3018"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="*U3">
+      <path
+         d="m 147.40158,1141.4173 v -18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5440" />
+      <path
+         d="M 128.50394,1103.6221 H -128.50394"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5442" />
+      <path
+         d="M 147.40158,1141.4173 H -147.40158"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5444" />
+      <path
+         d="m 147.40158,1122.5197 a 18.897637,18.897637 0 0 0 -18.89764,-18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5446" />
+      <path
+         d="m -128.50394,1103.6221 a 18.897637,18.897637 0 0 0 -18.89764,18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5448" />
+      <path
+         d="m -147.40158,1122.5197 v 18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5450" />
+      <path
+         d="m -120.94489,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5452" />
+      <path
+         d="m 136.063,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5454" />
+    </symbol>
+    <symbol
+       id="*U1">
+      <path
+         d="m 147.40158,1141.4173 v -18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5423" />
+      <path
+         d="M 128.50394,1103.6221 H -128.50394"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5425" />
+      <path
+         d="M 147.40158,1141.4173 H -147.40158"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5427" />
+      <path
+         d="m 147.40158,1122.5197 a 18.897637,18.897637 0 0 0 -18.89764,-18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5429" />
+      <path
+         d="m -128.50394,1103.6221 a 18.897637,18.897637 0 0 0 -18.89764,18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5431" />
+      <path
+         d="m -147.40158,1122.5197 v 18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5433" />
+      <path
+         d="m -120.94489,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5435" />
+      <path
+         d="m 136.063,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path5437" />
+    </symbol>
+    <symbol
+       id="$PAPER_SPACE" />
+    <symbol
+       id="$MODEL_SPACE" />
+    <pattern
+       height="8"
+       id="Hatch-5"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path5414" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path5416" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path5418" />
+    </pattern>
+    <marker
+       id="DistanceX-3"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333"
+         style="stroke:#000000;stroke-width:0.53333336"
+         id="path5411" />
+    </marker>
+    <symbol
+       id="*U3-7">
+      <path
+         d="m 14.740158,1124.4095 v -1.8898"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6198" />
+      <path
+         d="M 12.850394,1120.63 H -12.850394"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6200" />
+      <path
+         d="M 14.740158,1124.4095 H -14.740158"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6202" />
+      <path
+         d="M 14.740158,1122.5197 A 1.8897643,1.8897643 0 0 0 12.850394,1120.63"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6204" />
+      <path
+         d="m -12.850394,1120.63 a 1.8897643,1.8897643 0 0 0 -1.889764,1.8897"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6206" />
+      <path
+         d="m -14.740158,1122.5197 v 1.8898"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6208" />
+      <path
+         d="m -12.094489,1122.5197 a 0.7559056,0.7559056 0 1 0 -1.511811,0 0.7559056,0.7559056 0 1 0 1.511811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6210" />
+      <path
+         d="m 13.6063,1122.5197 a 0.7559056,0.7559056 0 1 0 -1.511811,0 0.7559056,0.7559056 0 1 0 1.511811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6212" />
+    </symbol>
+    <symbol
+       id="*U1-2">
+      <path
+         d="m 14.740158,1124.4095 v -1.8898"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6181" />
+      <path
+         d="M 12.850394,1120.63 H -12.850394"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6183" />
+      <path
+         d="M 14.740158,1124.4095 H -14.740158"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6185" />
+      <path
+         d="M 14.740158,1122.5197 A 1.8897643,1.8897643 0 0 0 12.850394,1120.63"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6187" />
+      <path
+         d="m -12.850394,1120.63 a 1.8897643,1.8897643 0 0 0 -1.889764,1.8897"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6189" />
+      <path
+         d="m -14.740158,1122.5197 v 1.8898"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6191" />
+      <path
+         d="m -12.094489,1122.5197 a 0.7559056,0.7559056 0 1 0 -1.511811,0 0.7559056,0.7559056 0 1 0 1.511811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6193" />
+      <path
+         d="m 13.6063,1122.5197 a 0.7559056,0.7559056 0 1 0 -1.511811,0 0.7559056,0.7559056 0 1 0 1.511811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6195" />
+    </symbol>
+    <symbol
+       id="$PAPER_SPACE-1" />
+    <symbol
+       id="$MODEL_SPACE-9" />
+    <pattern
+       height="8"
+       id="Hatch-2"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path6172" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path6174" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path6176" />
+    </pattern>
+    <marker
+       id="DistanceX-6"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333"
+         style="stroke:#000000;stroke-width:0.53333336"
+         id="path6169" />
+    </marker>
+    <symbol
+       id="*U3-6">
+      <path
+         d="m 29.480315,1126.2992 v -3.7795"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6956" />
+      <path
+         d="M 25.700787,1118.7402 H -25.700787"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6958" />
+      <path
+         d="m 29.480315,1126.2992 h -58.96063"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6960" />
+      <path
+         d="m 29.480315,1122.5197 a 3.7795275,3.7795275 0 0 0 -3.779528,-3.7795"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6962" />
+      <path
+         d="m -25.700787,1118.7402 a 3.7795275,3.7795275 0 0 0 -3.779528,3.7795"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6964" />
+      <path
+         d="m -29.480315,1122.5197 v 3.7795"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6966" />
+      <path
+         d="m -24.188976,1122.5197 a 1.5118112,1.5118112 0 1 0 -3.023622,0 1.5118112,1.5118112 0 1 0 3.023622,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6968" />
+      <path
+         d="m 27.212598,1122.5197 a 1.5118112,1.5118112 0 1 0 -3.023622,0 1.5118112,1.5118112 0 1 0 3.023622,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6970" />
+    </symbol>
+    <symbol
+       id="*U1-0">
+      <path
+         d="m 29.480315,1126.2992 v -3.7795"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6939" />
+      <path
+         d="M 25.700787,1118.7402 H -25.700787"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6941" />
+      <path
+         d="m 29.480315,1126.2992 h -58.96063"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6943" />
+      <path
+         d="m 29.480315,1122.5197 a 3.7795275,3.7795275 0 0 0 -3.779528,-3.7795"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6945" />
+      <path
+         d="m -25.700787,1118.7402 a 3.7795275,3.7795275 0 0 0 -3.779528,3.7795"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6947" />
+      <path
+         d="m -29.480315,1122.5197 v 3.7795"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6949" />
+      <path
+         d="m -24.188976,1122.5197 a 1.5118112,1.5118112 0 1 0 -3.023622,0 1.5118112,1.5118112 0 1 0 3.023622,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6951" />
+      <path
+         d="m 27.212598,1122.5197 a 1.5118112,1.5118112 0 1 0 -3.023622,0 1.5118112,1.5118112 0 1 0 3.023622,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path6953" />
+    </symbol>
+    <symbol
+       id="$PAPER_SPACE-6" />
+    <symbol
+       id="$MODEL_SPACE-3" />
+    <pattern
+       height="8"
+       id="Hatch-9"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path6930" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path6932" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path6934" />
+    </pattern>
+    <marker
+       id="DistanceX-0"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333"
+         style="stroke:#000000;stroke-width:0.53333336"
+         id="path6927" />
+    </marker>
+    <symbol
+       id="*U3-9">
+      <path
+         d="m 147.40158,1141.4173 v -18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7714" />
+      <path
+         d="M 128.50394,1103.6221 H -128.50394"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7716" />
+      <path
+         d="M 147.40158,1141.4173 H -147.40158"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7718" />
+      <path
+         d="m 147.40158,1122.5197 a 18.897637,18.897637 0 0 0 -18.89764,-18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7720" />
+      <path
+         d="m -128.50394,1103.6221 a 18.897637,18.897637 0 0 0 -18.89764,18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7722" />
+      <path
+         d="m -147.40158,1122.5197 v 18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7724" />
+      <path
+         d="m -120.94489,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7726" />
+      <path
+         d="m 136.063,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7728" />
+    </symbol>
+    <symbol
+       id="*U1-7">
+      <path
+         d="m 147.40158,1141.4173 v -18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7697" />
+      <path
+         d="M 128.50394,1103.6221 H -128.50394"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7699" />
+      <path
+         d="M 147.40158,1141.4173 H -147.40158"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7701" />
+      <path
+         d="m 147.40158,1122.5197 a 18.897637,18.897637 0 0 0 -18.89764,-18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7703" />
+      <path
+         d="m -128.50394,1103.6221 a 18.897637,18.897637 0 0 0 -18.89764,18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7705" />
+      <path
+         d="m -147.40158,1122.5197 v 18.8976"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7707" />
+      <path
+         d="m -120.94489,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7709" />
+      <path
+         d="m 136.063,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         id="path7711" />
+    </symbol>
+    <symbol
+       id="$PAPER_SPACE-8" />
+    <symbol
+       id="$MODEL_SPACE-1" />
+    <pattern
+       height="8"
+       id="Hatch-6"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path7688" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path7690" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path7692" />
+    </pattern>
+    <marker
+       id="DistanceX-2"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333"
+         style="stroke:#000000;stroke-width:0.53333336"
+         id="path7685" />
+    </marker>
+    <marker
+       id="DistanceX-5"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333"
+         style="stroke:#000000;stroke-width:0.53333336"
+         id="path3011-6" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch-29"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3014-1" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3016-2" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path3018-7" />
+    </pattern>
+    <symbol
+       id="*Model_Space-0" />
+    <symbol
+       id="*Paper_Space-9" />
+    <symbol
+       id="*Paper_Space0-3" />
+    <symbol
+       id="*U3-60">
+      <path
+         id="path5440-6"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 147.40158,1141.4173 v -18.8976" />
+      <path
+         id="path5442-2"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 128.50394,1103.6221 H -128.50394" />
+      <path
+         id="path5444-6"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 147.40158,1141.4173 H -147.40158" />
+      <path
+         id="path5446-1"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 147.40158,1122.5197 a 18.897637,18.897637 0 0 0 -18.89764,-18.8976" />
+      <path
+         id="path5448-8"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -128.50394,1103.6221 a 18.897637,18.897637 0 0 0 -18.89764,18.8976" />
+      <path
+         id="path5450-7"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -147.40158,1122.5197 v 18.8976" />
+      <path
+         id="path5452-9"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -120.94489,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z" />
+      <path
+         id="path5454-2"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 136.063,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z" />
+    </symbol>
+    <symbol
+       id="*U1-02">
+      <path
+         id="path5423-3"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 147.40158,1141.4173 v -18.8976" />
+      <path
+         id="path5425-7"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 128.50394,1103.6221 H -128.50394" />
+      <path
+         id="path5427-5"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 147.40158,1141.4173 H -147.40158" />
+      <path
+         id="path5429-9"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 147.40158,1122.5197 a 18.897637,18.897637 0 0 0 -18.89764,-18.8976" />
+      <path
+         id="path5431-2"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -128.50394,1103.6221 a 18.897637,18.897637 0 0 0 -18.89764,18.8976" />
+      <path
+         id="path5433-2"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -147.40158,1122.5197 v 18.8976" />
+      <path
+         id="path5435-8"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -120.94489,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z" />
+      <path
+         id="path5437-9"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 136.063,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z" />
+    </symbol>
+    <symbol
+       id="$PAPER_SPACE-7" />
+    <symbol
+       id="$MODEL_SPACE-36" />
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-5-1"
+       height="8">
+      <path
+         id="path5414-2"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path5416-9"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path5418-3"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-3-1">
+      <path
+         id="path5411-9"
+         style="stroke:#000000;stroke-width:0.53333336"
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333" />
+    </marker>
+    <symbol
+       id="*U3-7-4">
+      <path
+         id="path6198-7"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 14.740158,1124.4095 v -1.8898" />
+      <path
+         id="path6200-8"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 12.850394,1120.63 H -12.850394" />
+      <path
+         id="path6202-4"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 14.740158,1124.4095 H -14.740158" />
+      <path
+         id="path6204-5"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 14.740158,1122.5197 A 1.8897643,1.8897643 0 0 0 12.850394,1120.63" />
+      <path
+         id="path6206-0"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -12.850394,1120.63 a 1.8897643,1.8897643 0 0 0 -1.889764,1.8897" />
+      <path
+         id="path6208-3"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -14.740158,1122.5197 v 1.8898" />
+      <path
+         id="path6210-6"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -12.094489,1122.5197 a 0.7559056,0.7559056 0 1 0 -1.511811,0 0.7559056,0.7559056 0 1 0 1.511811,0 z" />
+      <path
+         id="path6212-1"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 13.6063,1122.5197 a 0.7559056,0.7559056 0 1 0 -1.511811,0 0.7559056,0.7559056 0 1 0 1.511811,0 z" />
+    </symbol>
+    <symbol
+       id="*U1-2-0">
+      <path
+         id="path6181-6"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 14.740158,1124.4095 v -1.8898" />
+      <path
+         id="path6183-3"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 12.850394,1120.63 H -12.850394" />
+      <path
+         id="path6185-2"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 14.740158,1124.4095 H -14.740158" />
+      <path
+         id="path6187-0"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 14.740158,1122.5197 A 1.8897643,1.8897643 0 0 0 12.850394,1120.63" />
+      <path
+         id="path6189-6"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -12.850394,1120.63 a 1.8897643,1.8897643 0 0 0 -1.889764,1.8897" />
+      <path
+         id="path6191-1"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -14.740158,1122.5197 v 1.8898" />
+      <path
+         id="path6193-5"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -12.094489,1122.5197 a 0.7559056,0.7559056 0 1 0 -1.511811,0 0.7559056,0.7559056 0 1 0 1.511811,0 z" />
+      <path
+         id="path6195-5"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 13.6063,1122.5197 a 0.7559056,0.7559056 0 1 0 -1.511811,0 0.7559056,0.7559056 0 1 0 1.511811,0 z" />
+    </symbol>
+    <symbol
+       id="$PAPER_SPACE-1-4" />
+    <symbol
+       id="$MODEL_SPACE-9-7" />
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-2-6"
+       height="8">
+      <path
+         id="path6172-5"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path6174-6"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path6176-9"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-6-3">
+      <path
+         id="path6169-7"
+         style="stroke:#000000;stroke-width:0.53333336"
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333" />
+    </marker>
+    <symbol
+       id="*U3-6-4">
+      <path
+         id="path6956-5"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 29.480315,1126.2992 v -3.7795" />
+      <path
+         id="path6958-2"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 25.700787,1118.7402 H -25.700787" />
+      <path
+         id="path6960-5"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 29.480315,1126.2992 h -58.96063" />
+      <path
+         id="path6962-4"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 29.480315,1122.5197 a 3.7795275,3.7795275 0 0 0 -3.779528,-3.7795" />
+      <path
+         id="path6964-7"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -25.700787,1118.7402 a 3.7795275,3.7795275 0 0 0 -3.779528,3.7795" />
+      <path
+         id="path6966-4"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -29.480315,1122.5197 v 3.7795" />
+      <path
+         id="path6968-4"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -24.188976,1122.5197 a 1.5118112,1.5118112 0 1 0 -3.023622,0 1.5118112,1.5118112 0 1 0 3.023622,0 z" />
+      <path
+         id="path6970-3"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 27.212598,1122.5197 a 1.5118112,1.5118112 0 1 0 -3.023622,0 1.5118112,1.5118112 0 1 0 3.023622,0 z" />
+    </symbol>
+    <symbol
+       id="*U1-0-0">
+      <path
+         id="path6939-7"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 29.480315,1126.2992 v -3.7795" />
+      <path
+         id="path6941-8"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 25.700787,1118.7402 H -25.700787" />
+      <path
+         id="path6943-6"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 29.480315,1126.2992 h -58.96063" />
+      <path
+         id="path6945-8"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 29.480315,1122.5197 a 3.7795275,3.7795275 0 0 0 -3.779528,-3.7795" />
+      <path
+         id="path6947-8"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -25.700787,1118.7402 a 3.7795275,3.7795275 0 0 0 -3.779528,3.7795" />
+      <path
+         id="path6949-4"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -29.480315,1122.5197 v 3.7795" />
+      <path
+         id="path6951-3"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -24.188976,1122.5197 a 1.5118112,1.5118112 0 1 0 -3.023622,0 1.5118112,1.5118112 0 1 0 3.023622,0 z" />
+      <path
+         id="path6953-1"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 27.212598,1122.5197 a 1.5118112,1.5118112 0 1 0 -3.023622,0 1.5118112,1.5118112 0 1 0 3.023622,0 z" />
+    </symbol>
+    <symbol
+       id="$PAPER_SPACE-6-4" />
+    <symbol
+       id="$MODEL_SPACE-3-9" />
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-9-2"
+       height="8">
+      <path
+         id="path6930-0"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path6932-6"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path6934-8"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-0-9">
+      <path
+         id="path6927-2"
+         style="stroke:#000000;stroke-width:0.53333336"
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333" />
+    </marker>
+    <symbol
+       id="*U3-9-6">
+      <path
+         id="path7714-6"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 147.40158,1141.4173 v -18.8976" />
+      <path
+         id="path7716-4"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 128.50394,1103.6221 H -128.50394" />
+      <path
+         id="path7718-9"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 147.40158,1141.4173 H -147.40158" />
+      <path
+         id="path7720-5"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 147.40158,1122.5197 a 18.897637,18.897637 0 0 0 -18.89764,-18.8976" />
+      <path
+         id="path7722-0"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -128.50394,1103.6221 a 18.897637,18.897637 0 0 0 -18.89764,18.8976" />
+      <path
+         id="path7724-4"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -147.40158,1122.5197 v 18.8976" />
+      <path
+         id="path7726-8"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -120.94489,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z" />
+      <path
+         id="path7728-7"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 136.063,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z" />
+    </symbol>
+    <symbol
+       id="*U1-7-1">
+      <path
+         id="path7697-7"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 147.40158,1141.4173 v -18.8976" />
+      <path
+         id="path7699-2"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 128.50394,1103.6221 H -128.50394" />
+      <path
+         id="path7701-7"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="M 147.40158,1141.4173 H -147.40158" />
+      <path
+         id="path7703-2"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 147.40158,1122.5197 a 18.897637,18.897637 0 0 0 -18.89764,-18.8976" />
+      <path
+         id="path7705-2"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -128.50394,1103.6221 a 18.897637,18.897637 0 0 0 -18.89764,18.8976" />
+      <path
+         id="path7707-6"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -147.40158,1122.5197 v 18.8976" />
+      <path
+         id="path7709-1"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m -120.94489,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z" />
+      <path
+         id="path7711-0"
+         style="fill:none;stroke:#000000;stroke-width:1.06666672"
+         d="m 136.063,1122.5197 a 7.559056,7.559056 0 1 0 -15.11811,0 7.559056,7.559056 0 1 0 15.11811,0 z" />
+    </symbol>
+    <symbol
+       id="$PAPER_SPACE-8-6" />
+    <symbol
+       id="$MODEL_SPACE-1-1" />
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-6-5"
+       height="8">
+      <path
+         id="path7688-9"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path7690-4"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path7692-9"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-2-0">
+      <path
+         id="path7685-9"
+         style="stroke:#000000;stroke-width:0.53333336"
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333" />
+    </marker>
+    <symbol
+       id="*Paper_Space0-9" />
+    <symbol
+       id="*Paper_Space-5" />
+    <symbol
+       id="*Model_Space-7" />
+    <pattern
+       y="0"
+       x="0"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-23"
+       height="8">
+      <path
+         id="path8465"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M8 4 l-4,4" />
+      <path
+         id="path8467"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M6 2 l-4,4" />
+      <path
+         id="path8469"
+         stroke-width="0.25"
+         stroke="#000000"
+         linecap="square"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-20">
+      <path
+         id="path8462"
+         style="stroke:#000000;stroke-width:0.53333336"
+         d="M 3.2,-3.2 -3.2,3.2 M 0,-5.3333333 V 5.3333333" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter8106">
+      <feGaussianBlur
+         result="result2"
+         stdDeviation="5"
+         id="feGaussianBlur8108" />
+      <feColorMatrix
+         result="result1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 10 -2 "
+         id="feColorMatrix8110" />
+      <feComposite
+         k4="0"
+         k1="0"
+         k3="1"
+         k2="-1"
+         in="SourceGraphic"
+         operator="arithmetic"
+         in2="result1"
+         id="feComposite8112" />
+    </filter>
+  </defs>
+  <rect
+     style="fill:none;stroke:#fb0000;stroke-width:2.44972396;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2554"
+     width="1217.5503"
+     height="607.55029"
+     x="1.224862"
+     y="1.224875" />
+  <path
+     style="fill:none;stroke:#0000ff;stroke-width:0.68808353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86243388"
+     d="m 14.655959,12.500002 a 2.1559587,2.1559575 0 0 1 -2.155957,2.155957 2.1559587,2.1559575 0 0 1 -2.15596,-2.155957 2.1559587,2.1559575 0 0 1 2.15596,-2.15596 2.1559587,2.1559575 0 0 1 2.155957,2.15596 z"
+     id="path301" />
+  <path
+     style="fill:none;stroke:#00ff00;stroke-width:0.68809676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1209.656,597.49998 a 2.1560219,2.1559426 0 0 1 -2.1559,2.15599 2.1560219,2.1559426 0 0 1 -2.156,-2.15599 2.1560219,2.1559426 0 0 1 2.156,-2.15591 2.1560219,2.1559426 0 0 1 2.1559,2.15591 z"
+     id="path301-3" />
+  <path
+     style="fill:none;stroke:#ffff00;stroke-width:0.68808353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86243385"
+     d="m 19.655952,592.50002 a 2.1559587,2.1559575 0 0 1 -2.15595,2.15595 2.1559587,2.1559575 0 0 1 -2.15596,-2.15595 2.1559587,2.1559575 0 0 1 2.15596,-2.15596 2.1559587,2.1559575 0 0 1 2.15595,2.15596 z"
+     id="path301-36" />
+  <path
+     style="fill:none;stroke:#00ffff;stroke-width:0.68808353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86243385"
+     d="m 1209.656,12.500009 a 2.1559587,2.1559575 0 0 1 -2.156,2.15595 2.1559587,2.1559575 0 0 1 -2.1559,-2.15595 2.1559587,2.1559575 0 0 1 2.1559,-2.15596 2.1559587,2.1559575 0 0 1 2.156,2.15596 z"
+     id="path301-7" />
+  <path
+     style="fill:none;stroke:#ff00ff;stroke-width:0.68809676;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 1004.656,592.49998 a 2.1560219,2.1559426 0 0 1 -2.1559,2.15599 2.1560219,2.1559426 0 0 1 -2.156,-2.15599 2.1560219,2.1559426 0 0 1 2.156,-2.15591 2.1560219,2.1559426 0 0 1 2.1559,2.15591 z"
+     id="path301-3-5" />
+</svg>
