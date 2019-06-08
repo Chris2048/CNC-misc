@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,8 +46,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="g3023"
      units="mm"
-     inkscape:document-units="mm"
-	 />
+     inkscape:document-units="mm" />
   <desc
      id="desc3006">/home/chris/Downloads/FII9RI0IDZSH91H.dxf - scale = 1.105263</desc>
   <defs
@@ -1249,16 +1248,11 @@
      style="display:inline">
     <rect
        id="rect290"
-       width="1993.0981"
-       height="1966.9758"
-       x="10.085864"
-       y="-1173.9296"
-       style="fill:none;stroke:#ff0000;stroke-width:2.61384678;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3757"
-       style="fill:none;stroke:#231f20;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1967.9904,477.6006 v -40.8333 h 24 v -24 h -24 V 386.3766 H 47.990433 v 26.3894 h -24 v 24 h 24 v 40.8333 h 24.8187 v -6.9907 h 14.3626 v 6.9907 H 122.65713 V 492.718 H 87.171733 v 6.992 h -14.3626 v -6.992 h -24.8187 v 39.048 h -24.64 v 24 h 24.64 v 55.436 h -24 v 24 h 24 v 40.8333 h 24.8187 v -6.992 h 14.3626 v 6.992 h 35.485397 v 15.1173 H 87.171733 v 6.9921 h -14.3626 v -6.9921 h -24.8187 v 39.0494 h -24.64 v 24 h 24.64 v 26.0386 H 1967.9904 v -26.0373 h 23.36 v -24 h -23.36 v -39.048 h -24.8187 v 6.9907 h -14.3627 v -6.9907 h -35.4853 v -15.1187 h 35.4853 v -6.992 h 14.3627 v 6.992 h 24.8187 v -40.8333 h 24 v -24 h -24 v -55.436 h 23.36 v -24 h -23.36 V 492.718 h -24.8187 v 6.992 h -14.3627 v -6.992 h -35.4853 v -15.1174 h 35.4853 v -6.992 h 14.3627 v 6.992 z" />
+       width="1993.3888"
+       height="1553.6128"
+       x="9.9405327"
+       y="-1174.075"
+       style="fill:none;stroke:#ff0000;stroke-width:2.32318425;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g3907"
        transform="matrix(1.3333333,0,0,-1.3333333,-2120.8362,1014.5579)">
