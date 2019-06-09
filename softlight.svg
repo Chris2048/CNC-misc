@@ -38,9 +38,9 @@
      inkscape:window-height="1017"
      id="namedview3827"
      showgrid="false"
-     inkscape:zoom="0.31784476"
-     inkscape:cx="995.10623"
-     inkscape:cy="821.86103"
+     inkscape:zoom="0.44950038"
+     inkscape:cx="1107.0145"
+     inkscape:cy="1347.8701"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1248,12 +1248,21 @@
          d="M 15.040287,38.6885 959.0602,-339.26808"
          style="fill:none;stroke:#ff0000;stroke-width:3.77952756;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:3.77952756;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5416"
-       width="377.95276"
-       height="377.95276"
-       x="764.52411"
-       y="-1074.4623" />
+    <g
+       id="g5423">
+      <rect
+         y="-1074.4623"
+         x="764.52411"
+         height="377.95276"
+         width="377.95276"
+         id="rect5416"
+         style="fill:none;stroke:#000000;stroke-width:3.77952756;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="53.243122"
+         cy="-885.4859"
+         cx="953.50049"
+         id="path5419"
+         style="fill:none;stroke:#000000;stroke-width:3.12005472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
